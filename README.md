@@ -1,4 +1,4 @@
-- 👋 OIIIIEEE, sou a Andreza!
+- 👋 OIIIIEEE, sou a Andreza! Aos 23 anos sou universitária de Engenharia Química e Desenvolvedora Full Stack. Tenho uma filha de 4 patas, adoro ler e sou apaixonada pelos quadros do Van Gogh. E aí, bora programar?
 
 
 <!---
